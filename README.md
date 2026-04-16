@@ -3,7 +3,9 @@
 ## Strategies? What are you, some kind of hedge fund?
 
 No, hedge funds have customers. We're a prop shop.
+
 Well, prop shops have partners. We're more of a family office...
+
 ...with $0 billion AUM and counting.
 
 ## Why Melange?
