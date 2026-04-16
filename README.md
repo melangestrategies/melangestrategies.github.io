@@ -16,7 +16,7 @@ It's kind of a mixed bag: we're based near the dunes of South Holland, we like s
 
 ### Like, what are you even doing?
 
-I'm an IT freelancer who's spent some time in the trading industry. My current clients aren't in that field, so keep my hand in, I play around with the sort of technology you use to connect to exchanges and make trades at ridiculously high speeds.
+I'm an IT freelancer who's spent some time in the trading industry. My current clients aren't in that field, so keep my hand in, I play around with the sort of technology you use to connect to exchanges and make trades at ridiculously high speeds. Melange Strategies is the name I use for the notional firm in my simulations and paper trading.
 
 ### If you can do all that, why don't you just actually get rich trading?
 
